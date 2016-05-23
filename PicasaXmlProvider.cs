@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Xml.Linq;
 
-namespace GooglePhotosUploader.Code.ImageHoster.Picasa
+namespace PicasaAPI
 {
     class PicasaXmlProvider
     {

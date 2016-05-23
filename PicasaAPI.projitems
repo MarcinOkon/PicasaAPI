@@ -11,5 +11,6 @@
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)PicasaXmlProvider.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)RequestManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)XmlNamespaces.cs" />
   </ItemGroup>
 </Project>
